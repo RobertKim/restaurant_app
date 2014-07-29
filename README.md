@@ -1,3 +1,5 @@
-Restaurant App
+# Restaurant App
 
-Using ZURB Foundation and HAML in toy restaurant app.
+This is a toy app for learning to use 
+[*Foundation*](http://foundation.zurb.com/) 
+by [*ZURB*](http://zurb.com/).
